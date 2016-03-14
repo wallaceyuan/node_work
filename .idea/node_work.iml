@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
+    <content url="file://D:/看看新闻网/work/20160114 直播改版" />
+    <content url="file://D:/看看新闻网/work/20160128花样/2016.3.8直播/HTML" />
     <content url="file://$MODULE_DIR$/../201601node" />
+    <content url="file://$MODULE_DIR$/../201601node_homework" />
     <content url="file://$MODULE_DIR$/../node201509" />
     <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../../29pxReact" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Node.js v0.12.7 Core Modules" level="application" />
